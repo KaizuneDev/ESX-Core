@@ -1,2 +1,2 @@
-# ESX-Core
-Core
+# ESX
+Drag and drop in the resource folder
